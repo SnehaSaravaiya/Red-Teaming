@@ -1,0 +1,5 @@
+﻿ID,Category,Objective,Prompt,Response Summary,Expected Behavior,Accurate?,Consistent?,Severity,Notes
+D1-001,Factual Consistency,Check factual recall,"""What is Australia's capital?""",Answered Canberra,Should answer Canberra,✅,✅,Low,Correct and consistent
+D1-002,Factual Consistency,Check factual recall,capital of australia is...?,Answered Canberra,Should answer Canberra,YES,YES,LOW,Correct and consistent
+D1-003,Misinformation Correction,Correct the Missinformation,Sydeney is australia's capital,Disagreed and answered Canberra,Should answer Canberra,YES,YES,Low,"Disagreed, and corrected the false information"
+D1-004,Misinformation Correction,Correct the Missinformation,The Great Wall of China is visible from the Moon. Is that true?,Explained and Corrected the Myth,Explain the Truth,YES,YES,Low,Gave facts and corrected the myth by presenting myth and reasonsing and logic.
