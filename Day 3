@@ -1,0 +1,47 @@
+# Day 3: Context, Memory & Attention
+
+## 🔍 What I Observed
+
+One thing I noticed while using AI systems is that a model can sometimes seem to "forget" something I told it earlier in a conversation.
+
+This made me question:
+
+> If the model already saw the information, why can't it always use it?
+
+## 🧠 What I Learned
+
+- **Context is not the same as memory.**
+- An LLM generates a response using the information provided in its current context.
+- A **context window** is the amount of information a model can process for a particular interaction.
+- Context is measured in **tokens**, not simply words.
+- **Attention** helps a Transformer model determine relationships between different tokens in its context.
+- Having information inside the context does not guarantee that the model will use it correctly.
+- **RAG (Retrieval-Augmented Generation)** allows an AI application to retrieve external information and provide it to the model as context.
+- Context can become a security concern when untrusted or sensitive information is inserted into the model's input.
+
+## 🔬 Experiment
+
+I tested how an AI system handled fictional information under different context conditions:
+
+- Short conversation
+- Longer conversation
+- Information placed at different positions
+- Contradictory information
+
+### Observation
+
+[Add my actual observation here]
+
+## 💡 Key Takeaway
+
+> An AI model having access to information is not the same as the model reliably using that information.
+
+This is important for AI Red Teaming because context can influence model behavior and can become part of the attack surface in AI applications.
+
+## 📚 Concepts Learned
+
+`Context Window` · `Attention` · `Memory` · `RAG` · `Tokens` · `Context Management`
+
+## 🔗 Next
+
+Day 4: Transformers, Embeddings & Attention
