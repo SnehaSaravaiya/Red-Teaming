@@ -38,10 +38,3 @@ I tested how an AI system handled fictional information under different context 
 
 This is important for AI Red Teaming because context can influence model behavior and can become part of the attack surface in AI applications.
 
-## 📚 Concepts Learned
-
-`Context Window` · `Attention` · `Memory` · `RAG` · `Tokens` · `Context Management`
-
-## 🔗 Next
-
-Day 4: Transformers, Embeddings & Attention
