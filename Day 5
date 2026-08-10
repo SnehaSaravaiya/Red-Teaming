@@ -1,6 +1,6 @@
-# Day 5: Instruction Hierarchy & Prompt Injection
+#Day 5: Instruction Hierarchy & Prompt Injection
 
-## What I Learned
+#What I Learned
 
 - AI systems can receive instructions from different sources.
 - System, developer, and user instructions can have different priorities.
