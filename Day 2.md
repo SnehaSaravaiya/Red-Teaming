@@ -1,8 +1,8 @@
-DAY 2
+# DAY 2
 
-Hands-On Task: Live Injection Experiments
+## Hands-On Task: Live Injection Experiments
 
-Model Used: Gemini 3.6 Flash
+### Model Used: Gemini 3.6 Flash
 
 Experiment A — Classic override:
 
