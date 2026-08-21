@@ -29,7 +29,10 @@ I tested how an AI system handled fictional information under different context 
 - Contradictory information
 
 ### Observation
-TO BE FIlled
+| Test | Context | Result | Observation |
+|---|---|---|---|
+| A | Short | Correct | Immediate Recall |
+| B | Long | Correct | Recalled after unrelated context |
 
 ## 💡 Key Takeaway
 
