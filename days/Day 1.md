@@ -13,7 +13,16 @@
 - The objective is to improve safety and reliability, not simply to find failures.
 
 ## Reflection
-Today I learned how AI Red Teaming differs from traditional cybersecurity and why systematic evaluation is necessary for modern AI systems.
+Today I learned how AI Red Teaming differs from traditional cybersecurity and why systematic evaluation is necessary for modern AI systems. In Practicals I baselined model behavior, by asking it mutiple types of questions. 
 
-##Findings 
- -D1-001 TO D1-004
+### Record
+
+| Field | Record |
+|---|---|
+| **Test ID** | D-01 |
+| **Objective** | Identify the baseline behavior of the model. |
+| **Input** | --- |
+| **Expected behavior** | --- |
+| **Actual behavior** | --- |
+| **Unexpected behavior?** | --- |
+| **Security relevance** | --- |
