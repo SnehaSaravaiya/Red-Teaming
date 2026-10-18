@@ -1,6 +1,6 @@
 # Red-Teaming: Adversarial LLM Testing Challenge
 
-**Day 8 of 100** · Last updated 19 of August 2026
+**Day 34 of 100** · Last updated 18 of October 2026
 
 An ongoing, public challenge in adversarial testing of large language models — probing jailbreaks, prompt injection, and safety-boundary failures across GPT, Claude, and Gemini, with a focus on multi-turn attack chains.
 
